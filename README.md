@@ -38,6 +38,8 @@ Note that, you can see I send some device metrics to the endpoint too (Line 31),
 - `textLarge1` replaces `text1` and `text2`, similarly with `menuN.textLarge2` replaces `text3` and `text4`
 - `actionName` is the last line, I originally intended to allow interaction on-device, but I felt like this ambient display shouldn't have interaction on itself, the name remains
 
-## Further Reading
+## Further Reading & Known M5Paper and M5Burner Issue
 
 - [https://www.gwendesign.ch/kb/m5stack/m5paper/#light-sleep-deep-sleep-and-shutdown-current](https://www.gwendesign.ch/kb/m5stack/m5paper/#light-sleep-deep-sleep-and-shutdown-current)
+- Install this if M5Paper doesn't play well with Mac - M5Paper Serial Driver for MacOS Big Sur [https://github.com/Xinyuan-LilyGO/LilyGo-T-Call-SIM800/issues/139#issuecomment-904390716](https://github.com/Xinyuan-LilyGO/LilyGo-T-Call-SIM800/issues/139#issuecomment-904390716)
+- M5Burner has several problem when setting, be sure to update it to the latest version in the app. In my case the site show 2.2.8 as latest but it has problem setting mode, I had to update in-app to 2.3.0. Do this via M5Burner setting (top-right cog icon, then update)
