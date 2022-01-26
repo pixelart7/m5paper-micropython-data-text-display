@@ -1,0 +1,75 @@
+{
+  "tz": "Asia/Tokyo",
+  "time": 1643174972454,
+  "timeDisplay": "14:29",
+  "hour": 14,
+  "minute": 29,
+  "menu0": {
+    "firstLine": "Upcoming: (9c)",
+    "text1": "",
+    "text2": "",
+    "textLarge1": "P. cloudy",
+    "text3": "Now: Shower nearby 6c (~3c)",
+    "text4": "01/27: P. cloudy (5/11c)",
+    "textLarge2": "",
+    "text5": "",
+    "actionName": "Message of the day"
+  },
+  "menu1": {
+    "firstLine": "January",
+    "text1": "",
+    "text2": "",
+    "textLarge1": "Wed",
+    "text3": "",
+    "text4": "",
+    "textLarge2": "26",
+    "text5": "",
+    "actionName": "2022"
+  },
+  "menu2": {
+    "firstLine": "JP) Slowdowns i",
+    "text1": "n U.S. and Chin",
+    "text2": "a will hold bac",
+    "textLarge1": "",
+    "text3": "TH) Ex-Tour cha",
+    "text4": "mpion Bernal 'c",
+    "textLarge2": "",
+    "text5": "onscious' after",
+    "actionName": "JP/TH NEWS"
+  },
+  "menu3": {
+    "firstLine": "dytiscidae",
+    "text1": "(noun)",
+    "text2": "water beetles",
+    "textLarge1": "",
+    "text3": "",
+    "text4": "",
+    "textLarge2": "",
+    "text5": "",
+    "actionName": "RANDOM WORD"
+  },
+  "menu4": {
+    "firstLine": "Toto was paid m",
+    "text1": "ore than some o",
+    "text2": "f the humans in",
+    "textLarge1": "",
+    "text3": "'The Wizard of",
+    "text4": "Oz'",
+    "textLarge2": "",
+    "text5": "",
+    "actionName": "RANDOM FACT"
+  },
+  "menu5": {
+    "firstLine": "",
+    "text1": "",
+    "text2": "",
+    "textLarge1": "",
+    "text3": "",
+    "text4": "",
+    "text5": "",
+    "textLarge2": "",
+    "actionName": ""
+  },
+  "shutdownDelay": 5,
+  "wakeupInterval": 1800
+}
